@@ -87,3 +87,8 @@
 .review-del-btn {
   margin-top: -2%;
 }
+
+/* line 74, ../sass/partials/_homePage.scss */
+.font-italic {
+  font-style: italic;
+}
